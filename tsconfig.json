@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "jsx": "react",
+    "module": "commonjs",
+    "target": "ES6"
+  },
+  "files": [
+    "node_modules/declarations/react/react.d.ts",
+    "index.tsx",
+    "math.ts"
+  ]
+}
